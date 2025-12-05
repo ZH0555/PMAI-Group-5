@@ -1,0 +1,3 @@
+# Remove any unecessary files from being tracked by git
+*.tmp
+~$oup 5 report.docx
