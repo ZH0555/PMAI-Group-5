@@ -1,8 +1,5 @@
 # Remove any unecessary files from being tracked by git
 *.tmp
-<<<<<<< HEAD
-~$oup 5 report.docx
-=======
 ~$oup 5 report.docx
 src/data/
->>>>>>> c197347ebaff4b52b5cdea3e4bf8d41abf0434ac
+src/saved-models/
