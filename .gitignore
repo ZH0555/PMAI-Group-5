@@ -3,3 +3,4 @@
 ~$oup 5 report.docx
 src/data/
 src/saved-models/
+.DS_Store
