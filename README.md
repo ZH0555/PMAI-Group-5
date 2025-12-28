@@ -44,7 +44,7 @@ conda install numpy=1.26.4 tensorflow=2.20.0 torch=2.7.0 torchvision=0.15.2a0 ma
 
 ### Note about Task2.ipynb
 
-Task 2 models were trained and tested using a Google Colab GPU. The notebook automatically deduces whether a GPU is available using the 'torch.device' object. If you are going to train on a GPU check the 'num_workers' constructor argument when using DataLoader as it varies between GPU or CPU. Any other issues are down to CPU or GPU specific matters.
+Task 2 models were trained and tested using a Google Colab GPU. The notebook automatically detects whether a GPU is available using the 'torch.device' object. If you are going to train on a GPU check the 'num_workers' constructor argument when using DataLoader and choose its value carefully as it may cause an error. Any other issues are down to CPU or GPU specific matters.
 
 ## Running the Code
 
