@@ -2,3 +2,4 @@
 *.tmp
 ~$oup 5 report.docx
 src/data/
+.DS_Store
