@@ -53,9 +53,9 @@ Task 2 models were trained and tested using a Google Colab GPU. The notebook aut
 Navigate to the 'src' folder and run: jupyter notebook Task1.ipynb
 This will open the notebook in the browser and you can manually run the cells.
 
-## Option 3: Open in VSCode or other IDE (Recommended)
+### Option 2: Open in VSCode or other IDE (Recommended)
 
-### Option 2: Run automatically in terminal
+### Option 3: Run automatically in terminal
 
 Navigate to the 'src' folder and run: jupyter nbconvert --to python --execute Task1.ipynb
 This will convert the notebook into a Python file and you can then run: Task1.py
