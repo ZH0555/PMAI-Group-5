@@ -36,7 +36,7 @@ pip install numpy==1.26.4 tensorflow==2.20.0 torch==2.7.0 torchvision==0.15.2a0 
 
 conda install numpy=1.26.4 tensorflow=2.20.0 torch=2.7.0 torchvision=0.15.2a0 matplotlib=3.10.6 scikit-learn=1.7.2 -c pytorch
 
-#### Do not change the seed numbers defined within Task1 or Task2 to ensure your results are the same as ours. Task1.ipynb seed=42. Task2.ipynb seed=40.
+### Do not change the seed numbers defined within Task1 or Task2 to ensure your results are the same as ours. Task1.ipynb seed=42. Task2.ipynb seed=40.
 
 ### Note about Task2.ipynb
 
